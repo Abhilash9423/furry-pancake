@@ -1,0 +1,44 @@
+.main_one{
+    width:100%;
+    height: 1080px;   
+    background-color:#D34848;
+}
+.main_two{
+    width:100%;
+    height: 1080px;   
+  
+}
+.image_main{
+    width:100%;
+    height:1080px;
+}
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.main_three{
+    width:100%;
+    height: 1080px;   
+    background-color:#FFB33F;
+}
+.main_four{
+    width:100%;
+    height: 1080px;   
+    background-color:#191919;
+}
+.main_five{
+    width:100%;
+    height: 1080px;   
+    background-color:#1FE1E9;
+}
+.main_six{
+    width:100%;
+    height: 814px;   
+    background-color:#191919;
+}
+.main_seven{
+    width:100%;
+    height: 538px;    
+    background-color:#5E33D1;
+}
