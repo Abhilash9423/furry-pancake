@@ -24,7 +24,7 @@
 }
 .main_four{
     width:100%;
-    height: 1080px;   
+    height: 1229px;   
     background-color:#191919;
 }
 .main_five{
@@ -40,5 +40,30 @@
 .main_seven{
     width:100%;
     height: 538px;    
+    background-color:#5E33D1;
+}
+.main_PricingOne{
+    width:100%;
+    height: 967px;   
+    background-color:#D34848;
+}
+.main_Pricingfour{
+    width:100%;
+    height: 1890px;   
+    background-color:#191919;
+}
+.main_Pricingseven{
+    width:100%;
+    height: 538px;    
+    background-color:#5E33D1;
+}
+.perks_one{
+    width:100%;
+    height:1947px;
+
+}
+.perks_two{
+    width:100%;
+    height:538px;
     background-color:#5E33D1;
 }
